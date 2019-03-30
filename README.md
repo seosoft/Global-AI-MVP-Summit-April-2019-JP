@@ -17,9 +17,12 @@
 1. [日本語版ワークショップの GitHub リポジトリ](https://github.com/seosoft/Global-AI-MVP-Summit-April-2019-JP) にアクセスします。  
 2. [Clone or download] で Clone 用の URL を取得します。（クリップボードにコピーします）  
 ![Clone-or-download](docs-images/Clone-or-download.JPG)
-3. [Azure Notebooks](https://notebooks.azure.com) に接続してサインインします。  
-4. [Upload　GitHub Repo] をクリックして、上の手順でコピーした GitHub の URL を [GitHub Repository] に貼り付けます。
-5. プロジェクト名とプロジェクトIDを入力します。クローン先のプロジェクトをパブリックにしたくない場合は、[public] チェックボックスをオフにします。  
+3. [Azure Notebooks](https://notebooks.azure.com) に接続してサインインします。 
+![AzureNotebook-SignIn](docs-images/AzureNotebook-SignIn.JPG) 
+4. [My Project]をクリックし、[Upload GitHub Repo] をクリックします。
+![Upload-GitHubRepo](docs-images/Upload-GitHubRepo.JPG)
+5. 手順3でコピーした GitHub の URL を [GitHub Repository] に貼り付けます。プロジェクト名とプロジェクトIDを入力します。クローン先のプロジェクトをパブリックにしたくない場合は、[public] チェックボックスをオフにします。
+![Upload-GitHubRepo2](docs-images/Upload-GitHubRepo2.JPG)
 6. ノートブックファイル（AutomatedMLWorkshop.ipynb）を開き、指示に従います。
 
 
